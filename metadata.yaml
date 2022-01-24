@@ -1,0 +1,33 @@
+_repo: Robin-Hood-ja-hanen-iloiset-toverinsa_67170
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Tervaskanto, Jussi
+    gutenberg_agent_id: '48611'
+    url: http://www.gutenberg.org/2009/agents/48611
+creator:
+  author:
+    agent_name: Finnemore, John
+    alias: Finnemore, J. (John)
+    birthdate: 1863
+    deathdate: 1915
+    gutenberg_agent_id: '2579'
+    url: http://www.gutenberg.org/2009/agents/2579
+    wikipedia: https://en.wikipedia.org/wiki/John_Finnemore_(born_1863)
+description: ''
+gutenberg_issued: '2022-01-15'
+identifiers:
+  gutenberg: '67170'
+language: fi
+pgterms:marc905: 20220101070604finnemore
+pgterms:marc906: '1926'
+pgterms:marc907: FI
+production_note: Anna Siren and Tapio Riikonen
+publication_note: Finland :WSOY,1926,reprint 1961.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Robin Hood ja hänen iloiset toverinsa
+url: http://www.gutenberg.org/ebooks/67170
