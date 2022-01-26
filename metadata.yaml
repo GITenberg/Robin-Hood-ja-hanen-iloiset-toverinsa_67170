@@ -5,6 +5,9 @@ contributor:
     agent_name: Tervaskanto, Jussi
     gutenberg_agent_id: '48611'
     url: http://www.gutenberg.org/2009/agents/48611
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Finnemore, John
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2579
     wikipedia: https://en.wikipedia.org/wiki/John_Finnemore_(born_1863)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67170#Robin-Hood-ja-hanen-iloiset-toverinsa
 gutenberg_issued: '2022-01-15'
 identifiers:
   gutenberg: '67170'
